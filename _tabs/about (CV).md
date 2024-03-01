@@ -11,7 +11,7 @@ Hello there! My name is Guillermo. I'm a recent gradute from a Financial Enginee
 
 ### Curriculum Vitae (CV)
 
-You can checkout my updated CV [here](/resume/resume.pdf).
+You can checkout my updated CV [here](/resume/public-resume.pdf).
 
 ***
 
