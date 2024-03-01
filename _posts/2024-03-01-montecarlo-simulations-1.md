@@ -1,9 +1,9 @@
 ---
 
-title: "An Introduction to Monte-Carlo Simulations in Finance (with code implementation)"
-date: 2024-02-27
+title: "An Introduction to Monte-Carlo Simulations in Finance (with code implementation) #1"
+date: 2024-03-01
 categories: [The Monte-Carlo Series] 
-tags: [simulations, derivative pricing, stochastic processes]
+tags: [simulations, derivative pricing, stochastic processes, tutorials]
 math: true
 
 ---
