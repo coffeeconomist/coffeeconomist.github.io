@@ -1,9 +1,9 @@
 ---
 
 title: "An Introduction to Monte-Carlo Simulations in Finance (with code implementation) #1"
-date: 2024-03-01
+date: 2024-03-03
 categories: [The Monte-Carlo Series] 
-tags: [simulations, derivative pricing, stochastic processes, tutorials]
+tags: [simulations, derivative pricing, stochastic processes, tutorials, matlab]
 math: true
 
 ---
@@ -182,9 +182,9 @@ This is called the Black-Scholes formula for a call, and it's used to price euro
 
 * But wait, if there is a closed solution. Why did we bother doing simulations to price the option?
 
-That's a valid point. The thing is, we went through a very simple example to get an idea of how to apply the Monte-Carlo method, and the fact there is a closed solution allow us to compare our results. Besides, this lovely formula only works with european vanilla options. Once we start working with slightly more complicated contracts, we don't have convenient formula to price them.
+That's a valid point. The thing is, we went through a very simple example to get an idea of how to apply the Monte-Carlo method, and the fact there is a closed solution allow us to compare our results. Besides, this lovely formula only works with european vanilla options. Once we start working with slightly more complicated contracts, we don't have a convenient formula to price them.
 
-Hopefully you are now conviced this method works, and I'll be glad if this brief introduction was helpful to you. 
+Hopefully, you are now conviced this method works and I'll be glad if this brief introduction was helpful to you. In part two of this article, we we'll be discussing one of the shortcomings of this method and why is not the panacea it's seems at first glance.
 
 You can see the matlab code writen for this article in my [github](https://github.com/coffeeconomist).
 
