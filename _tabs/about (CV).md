@@ -18,7 +18,7 @@ You can checkout my updated CV [here](/resume/public-resume.pdf).
 ### More About Me
 
 
-![Desktop View](/assets/img/about/me.jpeg){: width="120" .w-55   .left}
+![portrait-img](/assets/img/about/me.jpeg){: width="120" .w-55   .left}
 
 Guillermo Del Pino 🇨🇱
 

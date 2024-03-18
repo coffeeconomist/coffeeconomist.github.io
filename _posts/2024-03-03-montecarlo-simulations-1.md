@@ -1,6 +1,6 @@
 ---
 
-title: "An Introduction to Monte-Carlo Simulations in Finance (with code implementation) #1"
+title: "An Introduction to Monte-Carlo Simulations in Finance #1 (with code implementation) "
 date: 2024-03-03
 categories: [The Monte-Carlo Series] 
 tags: [simulations, derivative pricing, stochastic processes, tutorials, matlab]
@@ -106,7 +106,7 @@ $$
 \end{equation}
 $$
 
-+ *This result shows that $$\frac{S_T}{S_0}$$ is log-normally distributed. Here __z__ is a standard normal variable*
++ *This result shows that $$\frac{S_T}{S_0}$$ is log-normally distributed. Here, __z__ is a standard normal variable*
 
 ---
 
@@ -186,7 +186,7 @@ That's a valid point. The thing is, we went through a very simple example to get
 
 Hopefully, you are now conviced this method works and I'll be glad if this brief introduction was helpful to you. In part two of this article, we we'll be discussing one of the shortcomings of this method and why is not the panacea it's seems at first glance.
 
-You can see the matlab code writen for this article in my [github](https://github.com/coffeeconomist).
+You can see the matlab code writen for this article in my [github](https://github.com/coffeeconomist/tutorials-code/tree/main/montecarlo-1-2).
 
 > This post is only part 1 of a 2-part article introducing the Monte-Carlo simulation. You can check if the next part is available clicking [here](/categories/the-monte-carlo-series/).
 {: .prompt-info }
